@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "swift": "^2.8.0",
+    "swiper": "^11.0.7"
+  }
+}
