@@ -33,4 +33,43 @@ This is my old portfolio project built with React.js. It showcases my skills, pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/old-portfolio.git
+   https://github.com/TugaGelo/React-Portfolio.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd React-Portfolio
+   
+3. Install the dependencies:
+   ```bash
+   npm install
+
+## Usage
+
+1. Start the development server:
+   ```bash
+   npm run dev
+
+2. Open your browser and visit:
+   ```bash
+   (http://localhost:3000)
+
+## Screenshots
+### Home Page
+
+### Projects Page
+
+### Contact Page
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+Email: rolandtugaoen@gmail.com
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/rabtugaoen/)
+
+GitHub: [GitHub](https://github.com/TugaGelo)
+
+Portfolio: [My Website](https://roland-tugaoen-portfolio.vercel.app)
+
+Feel free to reach out if you have any questions or suggestions!
