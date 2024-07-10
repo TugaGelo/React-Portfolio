@@ -8,7 +8,6 @@ This is my old portfolio project built with React.js. It showcases my skills, pr
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [License](#license)
 - [Contact](#contact)
 
@@ -52,13 +51,6 @@ This is my old portfolio project built with React.js. It showcases my skills, pr
 2. Open your browser and visit:
    ```bash
    (http://localhost:3000)
-
-## Screenshots
-### Home Page
-
-### Projects Page
-
-### Contact Page
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
